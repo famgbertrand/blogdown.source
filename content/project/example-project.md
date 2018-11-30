@@ -1,15 +1,15 @@
 +++
 # Date this page was created.
-date = "2018-09-24"
+date = "2018-11-21"
 
 # Project title.
-title = "My project"
+title = "les risques sanitaires liés à la consommation des conservateurs chimiques dans les produits de charcuteries"
 
 # Project summary to display on homepage.
-summary = "A short summary of my project."
+summary = "Le projet consiste à mettre de la lumière sur les différents risques encouru par les consommateurs de produits alimentaires riche en conservateurs chimique et d'enduire quelques moyens de lutte."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "project.jpg"
+image_preview = "ADN.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

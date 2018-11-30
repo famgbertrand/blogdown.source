@@ -1,9 +1,9 @@
 +++
-date = 2016-04-20
+date = 2018-11-21
 lastmod = 2018-09-20
 draft = false
 tags = ["academic", "hugo"]
-title = "Mon premier blog"
+title = " Publication de mon site"
 math = true
 summary = """
 Résumé en une ou deux phrases ici. 
@@ -18,6 +18,6 @@ preview = false
 
 Le contenu ici
 
-## Un titre
+## Mon site
 
 Du texte **avec une partie en gras**...

@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "..."
-  ]
+    "Biochemistry"
+    "Microbiology"
+    ]
 
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
@@ -33,5 +34,4 @@ weight = 5
 +++
 
 # About Me
-
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+ Je suis étudiant inscrit en Master de Biochimie biologie moléculaire et cellulaire à l'Université de Mons. Je viens du Cameroun ou j'ai j'ai suivi une formation en Biochimie; formation au terme de laquelle j'ai obtenu  un Master option Biochimie Industrielle.
